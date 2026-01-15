@@ -1,0 +1,11 @@
+[project]
+name = "asteroids"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.5",
+    "pygame-ce>=2.5.6",
+    "stable-baselines3[extra]>=2.7.0",
+]
